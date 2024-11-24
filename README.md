@@ -2,8 +2,7 @@ nextjs dev project
 
 
 
-https://github.com/zchdoc/att-simple-nextjs-v1/blob/main/att-simple-nextjs-v1.mp4
 
-https://github.com/zchdoc/att-simple-nextjs-v1/main/att-simple-nextjs-v1.mp4
 
-[播放视频](https://raw.githubusercontent.com/zchdoc/att-simple-nextjs-v1/main/att-simple-nextjs-v1.mp4)
+https://github.com/user-attachments/assets/eeedbb5c-94e2-4577-8952-32e43877aa22
+
