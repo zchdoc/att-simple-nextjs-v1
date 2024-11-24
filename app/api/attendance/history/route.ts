@@ -6,7 +6,7 @@ export async function GET(request: Request) {
     const userNo = searchParams.get('userNo');
     const timeStart = searchParams.get('timeStart');
     const timeEnd = searchParams.get('timeEnd');
-    let url = 'http' + '://' + 'a2.4000063966.com:81';
+    let url = 'http' + '://' + 'localhost:81';
     let uri = '/xb/zk/attendance/v2/record.do';
     let fullUrl = `${url}${uri}?userNo=${userNo}&timeStart=${timeStart}&timeEnd=${timeEnd}&openId=o45LO4l28n6aa4dFCXB3BBYOFWNs&userVerifyNumber=15824821718`;
     console.info('fullUrl:', fullUrl);

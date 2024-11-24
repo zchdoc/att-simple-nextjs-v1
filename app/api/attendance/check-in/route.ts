@@ -4,7 +4,7 @@ export async function POST(request: Request) {
   try {
     const data = await request.text();
     const response = await fetch(
-      "http://a2.4000063966.com:81/iclock/cdata?SN=CJDE193560303&table=ATTLOG&Stamp=666",
+      "http://localhost:81/iclock/cdata?SN=CJDE193560303&table=ATTLOG&Stamp=666",
       {
         method: 'POST',
         headers: {
